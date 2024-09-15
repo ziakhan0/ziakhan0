@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ziya-ur-rehman.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++ and Javascript.
+- 🌱 I’m currently learning C++, Javascript, and assembly.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Fast cfd Campus.
 - 😄 Pronouns: khan.

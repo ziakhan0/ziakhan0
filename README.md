@@ -1,3 +1,5 @@
+<img src="https://github.com/ziakhan0/ziakhan0/blob/main/my.jpg" alt="logo" style="width:100%; max-height:400px; object-fit:cover;" />
+
 <h1 align="center">Hi 👋, I'm Zia-ur-Rehman</h1>
 <h3 align="center">A passionate Computer Science student from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" />

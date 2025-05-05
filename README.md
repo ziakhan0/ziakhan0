@@ -4,11 +4,26 @@
 <h3 align="center">A passionate Computer Science student from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" />
 
-- 🔭 I’m currently working on **Mini_operating system**
+- 🔭 I’m currently working on **Operating system,Database and Probability Projects.**
 
-- 🌱 I’m currently learning **SQL,BASH,C#,Javascript,r-language,etc**
+- 🌱 I’m currently learning **SQL,BASH,C#,Javascript,HTML,CSS,x86Assemby,r-language,C++etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ziakhan0](https://github.com/ziakhan0)
+### 🔷 Featured Projects
+
+- 📚 [**Student Management System**](https://github.com/ziakhan0/Operating_System_Lab_Mini_project)  
+  A Bash-based student record system with grading, CGPA calculation, login features, and file handling.
+
+- 📇 [**Contact List**](https://github.com/ziakhan0/conatct-list-project)  
+  A simple command-line contact manager with add, search, and delete functionalities.
+
+- 🎮 [**Tower of Hanoi Game**](https://github.com/ziakhan0/Game_Tower_of_Hanoi)  
+  A classic recursive Tower of Hanoi game implemented with interactive console output.
+
+---
+
+### 🔗 All Projects  
+See more at [my GitHub profile](https://github.com/ziakhan0)
+
 
 - 📫 How to reach me **ziaiiee120444@gmail.com**
 

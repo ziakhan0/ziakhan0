@@ -19,6 +19,10 @@
 - 🎮 [**Tower of Hanoi Game**](https://github.com/ziakhan0/Game_Tower_of_Hanoi)  
   A classic recursive Tower of Hanoi game implemented with interactive console output.
 
+- 💻  [**Mini_Operating_System**](https://github.com/ziakhan0/Mini_Operating_System)  
+ A console-based multithreaded simulation of an operating system that lets users execute a variety of tasks like calculator, clock, games, and utilities in separate terminal windows.
+
+
 ---
 
 ### 🔗 All Projects  

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Operating system,Database and Probability Projects.**
 
-- 🌱 I’m currently learning **SQL,BASH,C#,Javascript,HTML,CSS,x86Assemby,r-language,C++etc**
+- 🌱 I have learnt **SQL,BASH,C#,Javascript,HTML,CSS,x86Assemby,r-language,C++etc**
 
 ### 🔷 Featured Projects
 
